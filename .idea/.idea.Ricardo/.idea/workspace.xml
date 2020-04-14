@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="58b4dd39-fe2f-4d83-8370-b1e890c3d259" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/RicardoAnimation/AnimPngHuinua/New_anim/RedBull/SwordMoove.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/IMG/IDbuybutton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ExplorerScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SCriptttt.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/IMG/CloudManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/RicardoAnimation/LayerController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/RicardoScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/IMG/OffPause.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/MenuBackGround.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/IMG/PNG/DelExp.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SoftEffects/Scripts/GPUWorker.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ButtonOnGame.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MainBottleMoover.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/oNrESTARTbUTTON.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ExitOnGame.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SoftEffects/Scripts/SoftEffectsFont.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/CoinsScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/IMG/PNG/AmmoAk.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SettingsMenu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AntonScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/IMG/Katana.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../2019.3.0f6/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/Button.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/IMG/OptionsOpen.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/IMG/PNG/BowAnimation/Shoot.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/IMG/PNG/BowScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/IMG/ScrollMagazine.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/BackOnShop.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/RicardoSpawnManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/IMG/PNG/ExpSpawn.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/IMG/ShopCobtroller.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/IMG/ItemShopId.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/IMG/PNG/Arrow.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/IMG/ButtonBool1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/IMG/cLOUDmOOVE.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/RicardoAnimation/ScriptRicForMainMenu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/IMG/PNG/AK47.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/IMG/PNG/AKSHOOT.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/RicardoAnimation/NewSurfaceShader.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/RicardoAnimation/AnimPngHuinua/New_anim/RedBull/EnergyBottle.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/IMG/ShopButton.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/oNrESTARTbUTTON.cs" />
+        <option value="$PROJECT_DIR$/Assets/ButtonOnGame.cs" />
+        <option value="$PROJECT_DIR$/Assets/ExitOnGame.cs" />
+        <option value="$PROJECT_DIR$/Assets/IMG/ShopButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/BackOnShop.cs" />
+        <option value="$PROJECT_DIR$/Assets/IMG/CloudManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/IMG/OptionsOpen.cs" />
+        <option value="$PROJECT_DIR$/Assets/IMG/OffPause.cs" />
+        <option value="$PROJECT_DIR$/Assets/IMG/ButtonBool1.cs" />
+        <option value="$PROJECT_DIR$/Assets/AntonScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/IMG/PNG/DelExp.cs" />
+        <option value="$PROJECT_DIR$/Assets/IMG/PNG/ExpSpawn.cs" />
+        <option value="$PROJECT_DIR$/Assets/SettingsMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/IMG/PNG/BowAnimation/Shoot.cs" />
+        <option value="$PROJECT_DIR$/Assets/IMG/ItemShopId.cs" />
+        <option value="$PROJECT_DIR$/Assets/IMG/IDbuybutton.cs" />
+        <option value="$PROJECT_DIR$/Assets/SCriptttt.cs" />
+        <option value="$PROJECT_DIR$/Assets/IMG/Katana.cs" />
+        <option value="$APPLICATION_CONFIG_DIR$/rider64.exe.vmoptions" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/MenuBackGround.cs" />
+        <option value="$PROJECT_DIR$/Assets/RicardoAnimation/ScriptRicForMainMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/RicardoAnimation/NewSurfaceShader.shader" />
+        <option value="$PROJECT_DIR$/Assets/RicardoAnimation/LayerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/RicardoScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/IMG/ScrollMagazine.cs" />
+        <option value="$PROJECT_DIR$/Assets/RicardoAnimation/AnimPngHuinua/New_anim/RedBull/EnergyBottle.cs" />
+        <option value="$PROJECT_DIR$/Assets/IMG/cLOUDmOOVE.cs" />
+        <option value="$PROJECT_DIR$/Assets/IMG/PNG/Arrow.cs" />
+        <option value="$PROJECT_DIR$/Assets/IMG/PNG/AKSHOOT.cs" />
+        <option value="$PROJECT_DIR$/Assets/CoinsScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/IMG/PNG/AmmoAk.cs" />
+        <option value="$PROJECT_DIR$/Assets/RicardoSpawnManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/MainBottleMoover.cs" />
+        <option value="$PROJECT_DIR$/Assets/IMG/PNG/BowScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/IMG/PNG/AK47.cs" />
+        <option value="$PROJECT_DIR$/Assets/IMG/ShopCobtroller.cs" />
+        <option value="$PROJECT_DIR$/Assets/RicardoAnimation/AnimPngHuinua/New_anim/RedBull/SwordMoove.cs" />
+        <option value="$PROJECT_DIR$/Assets/ExplorerScript.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YLRb2HG8vYpEHMRfQEnD6jQVJ9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" pid="13128">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" value="13128" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="58b4dd39-fe2f-4d83-8370-b1e890c3d259" name="Default Changelist" comment="" />
+      <created>1582719956830</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582719956830</updated>
+      <workItem from="1582719960397" duration="5156000" />
+      <workItem from="1582918552279" duration="17359000" />
+      <workItem from="1583267137052" duration="1888000" />
+      <workItem from="1583269274961" duration="1031000" />
+      <workItem from="1583326161695" duration="1762000" />
+      <workItem from="1583328261711" duration="871000" />
+      <workItem from="1583397134794" duration="1671000" />
+      <workItem from="1583398913223" duration="1822000" />
+      <workItem from="1583401116628" duration="1194000" />
+      <workItem from="1583403010998" duration="622000" />
+      <workItem from="1583406010997" duration="1783000" />
+      <workItem from="1583407954418" duration="1804000" />
+      <workItem from="1583409800026" duration="1773000" />
+      <workItem from="1583419722632" duration="1668000" />
+      <workItem from="1583421561557" duration="1526000" />
+      <workItem from="1583424402650" duration="1837000" />
+      <workItem from="1583426303566" duration="1791000" />
+      <workItem from="1583428281157" duration="598000" />
+      <workItem from="1583430409382" duration="536000" />
+      <workItem from="1583505824663" duration="7000" />
+      <workItem from="1583515833928" duration="1392000" />
+      <workItem from="1583518125082" duration="1677000" />
+      <workItem from="1583519926526" duration="1572000" />
+      <workItem from="1583527756295" duration="1646000" />
+      <workItem from="1583529486533" duration="1191000" />
+      <workItem from="1583564986155" duration="1735000" />
+      <workItem from="1583567382565" duration="1601000" />
+      <workItem from="1583579271630" duration="1553000" />
+      <workItem from="1583581407625" duration="1060000" />
+      <workItem from="1583583256821" duration="599000" />
+      <workItem from="1583586055535" duration="1293000" />
+      <workItem from="1583599104345" duration="600000" />
+      <workItem from="1583657205586" duration="216000" />
+      <workItem from="1583702441447" duration="1669000" />
+      <workItem from="1583704175199" duration="478000" />
+      <workItem from="1583741418085" duration="1752000" />
+      <workItem from="1583758173071" duration="783000" />
+      <workItem from="1583776938737" duration="1661000" />
+      <workItem from="1583778778076" duration="2088000" />
+      <workItem from="1583781055242" duration="1784000" />
+      <workItem from="1583783175045" duration="1539000" />
+      <workItem from="1583785021838" duration="873000" />
+      <workItem from="1583945411735" duration="1694000" />
+      <workItem from="1583947543628" duration="1640000" />
+      <workItem from="1583949372013" duration="1786000" />
+      <workItem from="1583951196503" duration="1785000" />
+      <workItem from="1583953022457" duration="1717000" />
+      <workItem from="1583954923680" duration="1781000" />
+      <workItem from="1583956741961" duration="1786000" />
+      <workItem from="1583958555557" duration="538000" />
+      <workItem from="1584016861780" duration="1855000" />
+      <workItem from="1584018897664" duration="1778000" />
+      <workItem from="1584020727871" duration="767000" />
+      <workItem from="1584033131083" duration="599000" />
+      <workItem from="1584035921046" duration="671000" />
+      <workItem from="1584038300659" duration="987000" />
+      <workItem from="1584040151897" duration="1366000" />
+      <workItem from="1584041967615" duration="613000" />
+      <workItem from="1584122483685" duration="1634000" />
+      <workItem from="1584124168772" duration="1784000" />
+      <workItem from="1584131629174" duration="1630000" />
+      <workItem from="1584182409033" duration="1703000" />
+      <workItem from="1584184239143" duration="1650000" />
+      <workItem from="1584208140179" duration="1796000" />
+      <workItem from="1584210461960" duration="1328000" />
+      <workItem from="1584218388276" duration="1541000" />
+      <workItem from="1584220170140" duration="1455000" />
+      <workItem from="1584257238083" duration="1454000" />
+      <workItem from="1584266853004" duration="1686000" />
+      <workItem from="1584269240519" duration="1829000" />
+      <workItem from="1584271505753" duration="2040000" />
+      <workItem from="1584273822414" duration="909000" />
+      <workItem from="1584289112695" duration="1796000" />
+      <workItem from="1584290988983" duration="1865000" />
+      <workItem from="1584292900315" duration="1787000" />
+      <workItem from="1584294724339" duration="1780000" />
+      <workItem from="1584296546137" duration="1799000" />
+      <workItem from="1584298395697" duration="1780000" />
+      <workItem from="1584300200560" duration="1777000" />
+      <workItem from="1584302038482" duration="1979000" />
+      <workItem from="1584347337488" duration="754000" />
+      <workItem from="1584353163249" duration="1801000" />
+      <workItem from="1584360688999" duration="1788000" />
+      <workItem from="1584362989202" duration="1796000" />
+      <workItem from="1584364835125" duration="1270000" />
+      <workItem from="1584366660529" duration="1726000" />
+      <workItem from="1584368778578" duration="866000" />
+      <workItem from="1584383411027" duration="880000" />
+      <workItem from="1584446529748" duration="1338000" />
+      <workItem from="1584467855273" duration="1334000" />
+      <workItem from="1584469748225" duration="3000" />
+      <workItem from="1584470399809" duration="219000" />
+      <workItem from="1584470644140" duration="39000" />
+      <workItem from="1584470713610" duration="853000" />
+      <workItem from="1584476798148" duration="30201000" />
+      <workItem from="1584791207488" duration="6218000" />
+      <workItem from="1584894549103" duration="7617000" />
+      <workItem from="1584992568152" duration="24064000" />
+      <workItem from="1585124560528" duration="6134000" />
+      <workItem from="1585394940122" duration="187000" />
+      <workItem from="1586876834127" duration="2517000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="WindowStateProjectService">
+    <state width="2005" height="376" key="GridCell.Tab.0.bottom" timestamp="1583956196447">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="376" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1583956196447" />
+    <state width="2005" height="376" key="GridCell.Tab.0.center" timestamp="1583956196446">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="376" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1583956196446" />
+    <state width="2005" height="376" key="GridCell.Tab.0.left" timestamp="1583956196446">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="376" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1583956196446" />
+    <state width="2005" height="376" key="GridCell.Tab.0.right" timestamp="1583956196447">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="376" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1583956196447" />
+    <state width="2005" height="376" key="GridCell.Tab.1.bottom" timestamp="1583956196447">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="376" key="GridCell.Tab.1.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1583956196447" />
+    <state width="2005" height="376" key="GridCell.Tab.1.center" timestamp="1583956196447">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="376" key="GridCell.Tab.1.center/0.0.2048.1112@0.0.2048.1112" timestamp="1583956196447" />
+    <state width="2005" height="376" key="GridCell.Tab.1.left" timestamp="1583956196447">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="376" key="GridCell.Tab.1.left/0.0.2048.1112@0.0.2048.1112" timestamp="1583956196447" />
+    <state width="2005" height="376" key="GridCell.Tab.1.right" timestamp="1583956196447">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="376" key="GridCell.Tab.1.right/0.0.2048.1112@0.0.2048.1112" timestamp="1583956196447" />
+    <state width="2005" height="376" key="GridCell.Tab.2.bottom" timestamp="1583956196448">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="376" key="GridCell.Tab.2.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1583956196448" />
+    <state width="2005" height="376" key="GridCell.Tab.2.center" timestamp="1583956196447">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="376" key="GridCell.Tab.2.center/0.0.2048.1112@0.0.2048.1112" timestamp="1583956196447" />
+    <state width="2005" height="376" key="GridCell.Tab.2.left" timestamp="1583956196447">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="376" key="GridCell.Tab.2.left/0.0.2048.1112@0.0.2048.1112" timestamp="1583956196447" />
+    <state width="2005" height="376" key="GridCell.Tab.2.right" timestamp="1583956196447">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="376" key="GridCell.Tab.2.right/0.0.2048.1112@0.0.2048.1112" timestamp="1583956196447" />
+    <state width="2005" height="376" key="GridCell.Tab.3.bottom" timestamp="1583956196448">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="376" key="GridCell.Tab.3.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1583956196448" />
+    <state width="2005" height="376" key="GridCell.Tab.3.center" timestamp="1583956196448">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="376" key="GridCell.Tab.3.center/0.0.2048.1112@0.0.2048.1112" timestamp="1583956196448" />
+    <state width="2005" height="376" key="GridCell.Tab.3.left" timestamp="1583956196448">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="376" key="GridCell.Tab.3.left/0.0.2048.1112@0.0.2048.1112" timestamp="1583956196448" />
+    <state width="2005" height="376" key="GridCell.Tab.3.right" timestamp="1583956196448">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="376" key="GridCell.Tab.3.right/0.0.2048.1112@0.0.2048.1112" timestamp="1583956196448" />
+  </component>
+</project>
