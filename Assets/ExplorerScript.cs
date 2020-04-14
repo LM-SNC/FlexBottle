@@ -32,7 +32,7 @@ public class ExplorerScript : MonoBehaviour
 
     void UpdateImage()
     {
-        WWW www = new WWW("file:///" + PlayerPrefs.GetString("path"));
+        WWW www = new WWW("file:///" + PlayerPrefs.GetString("path"))---;
         image.texture = www.texture;
     }
     
