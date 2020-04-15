@@ -209,7 +209,7 @@ public class RicardoSpawnManager : MonoBehaviour
                     YourSelfIMG = true;
                 }
                 
-                numberprefub = 0;
+               // numberprefub = 0;
                 path = PlayerPrefs.GetString("path");
                 if (path != null)
                 {

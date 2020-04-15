@@ -76,20 +76,20 @@
         <option value="$PROJECT_DIR$/Assets/RicardoAnimation/NewSurfaceShader.shader" />
         <option value="$PROJECT_DIR$/Assets/RicardoAnimation/LayerController.cs" />
         <option value="$PROJECT_DIR$/Assets/RicardoScript.cs" />
-        <option value="$PROJECT_DIR$/Assets/IMG/ScrollMagazine.cs" />
         <option value="$PROJECT_DIR$/Assets/RicardoAnimation/AnimPngHuinua/New_anim/RedBull/EnergyBottle.cs" />
         <option value="$PROJECT_DIR$/Assets/IMG/cLOUDmOOVE.cs" />
         <option value="$PROJECT_DIR$/Assets/IMG/PNG/Arrow.cs" />
         <option value="$PROJECT_DIR$/Assets/IMG/PNG/AKSHOOT.cs" />
         <option value="$PROJECT_DIR$/Assets/CoinsScript.cs" />
         <option value="$PROJECT_DIR$/Assets/IMG/PNG/AmmoAk.cs" />
-        <option value="$PROJECT_DIR$/Assets/RicardoSpawnManager.cs" />
         <option value="$PROJECT_DIR$/Assets/MainBottleMoover.cs" />
         <option value="$PROJECT_DIR$/Assets/IMG/PNG/BowScript.cs" />
         <option value="$PROJECT_DIR$/Assets/IMG/PNG/AK47.cs" />
         <option value="$PROJECT_DIR$/Assets/IMG/ShopCobtroller.cs" />
         <option value="$PROJECT_DIR$/Assets/RicardoAnimation/AnimPngHuinua/New_anim/RedBull/SwordMoove.cs" />
+        <option value="$PROJECT_DIR$/Assets/IMG/ScrollMagazine.cs" />
         <option value="$PROJECT_DIR$/Assets/ExplorerScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/RicardoSpawnManager.cs" />
       </list>
     </option>
   </component>
@@ -242,6 +242,8 @@
       <workItem from="1585124560528" duration="6134000" />
       <workItem from="1585394940122" duration="187000" />
       <workItem from="1586876834127" duration="2904000" />
+      <workItem from="1586883703250" duration="5542000" />
+      <workItem from="1586944064662" duration="3153000" />
     </task>
     <servers />
   </component>

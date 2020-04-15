@@ -16,24 +16,24 @@ public class ExplorerScript : MonoBehaviour
         bool IsSelected = Convert.ToBoolean(PlayerPrefs.GetInt("IsSelected" + 22));
         if (IsSelected)
         {
-            path = EditorUtility.OpenFilePanel("PanelImage", "", "png");
-            PlayerPrefs.SetString("path", path);
-            GetImage();
+          //  path = EditorUtility.OpenFilePanel("PanelImage", "", "png");
+           // PlayerPrefs.SetString("path", path);
+         //   GetImage();
         }
     }
 
-    void GetImage()
-    {
-        if (path != null)
-        {
-            UpdateImage();
-        }
-    }
+ //   void GetImage()
+ //   {
+ //       if (path != null)
+ //       {
+  //          UpdateImage();
+  //      }
+   // }
 
     void UpdateImage()
     {
-        WWW www = new WWW("file:///" + PlayerPrefs.GetString("path"))---;
-        image.texture = www.texture;
+      //  WWW www = new WWW("file:///" + PlayerPrefs.GetString("path"));
+//        image.texture = www.texture;
     }
     
 
