@@ -77,6 +77,7 @@
      <Compile Include="Assets\IMG\PNG\Arrow.cs" />
      <Compile Include="Assets\IMG\PNG\BowAnimation\Shoot.cs" />
      <Compile Include="Assets\IMG\PNG\BowScript.cs" />
+     <Compile Include="Assets\IMG\PNG\CliclHandlerShootButton.cs" />
      <Compile Include="Assets\IMG\PNG\DelExp.cs" />
      <Compile Include="Assets\IMG\PNG\ExpSpawn.cs" />
      <Compile Include="Assets\IMG\ScrollMagazine.cs" />

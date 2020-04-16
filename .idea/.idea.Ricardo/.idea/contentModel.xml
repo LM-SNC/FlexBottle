@@ -31,6 +31,7 @@
               <e p="Shoot.cs" t="Include" />
             </e>
             <e p="BowScript.cs" t="Include" />
+            <e p="CliclHandlerShootButton.cs" t="Include" />
             <e p="DelExp.cs" t="Include" />
             <e p="ExpSpawn.cs" t="Include" />
           </e>

@@ -1,6 +1,9 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.EventSystems;
+using UnityEngine.UIElements;
+using Button = UnityEngine.UI.Button;
 
 public class AK47 : MonoBehaviour
 {
@@ -10,10 +13,14 @@ public class AK47 : MonoBehaviour
     public AKSHOOT As;
 
     public bool IsTripple;
-
+    public bool IsBuutonPressed;
+        
     public int speed;
     public GameObject[] cOPYBOTTLE;
+
+    private float hui;
     // Start is called before the first frame update
+
     void Start()
     {
         As = GameObject.Find("pat").GetComponent<AKSHOOT>();
@@ -25,29 +32,21 @@ public class AK47 : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        Debug.Log(hui);
+        
         if (!_uiManager.GamePause)
         {
-            if (Input.GetKey(KeyCode.Mouse0) && !As.isshoot)
-            {
-                MousePos = Input.mousePosition;
-                if (MousePos.x > 500 && transform.rotation.z > -0.6f)
-                {
-                    transform.Rotate(0, 0, -3 * speed * Time.deltaTime);
-                }
-                else if (MousePos.x < 500 && transform.rotation.z < 0.6f)
-                {
-                    transform.Rotate(0, 0, 3 * speed * Time.deltaTime);
-                }
-            }
+          //  Debug.Log(button.transform.position.x * 100);
+            //Debug.Log(Input.mousePosition.y + "Mouse");
 
 
             if (transform.rotation.z < -0.65f)
             {
-                transform.Rotate(0, 0, 1);
+                transform.Rotate(0, 0, 1 * speed * Time.deltaTime);
             }
             else if (transform.rotation.z > 0.65f)
             {
-                transform.Rotate(0, 0, -1);
+                transform.Rotate(0, 0, -1 * speed * Time.deltaTime);
             }
 
             if (transform.position.y < -2.58f)
@@ -60,6 +59,21 @@ public class AK47 : MonoBehaviour
                 Touch touch = Input.GetTouch(0);
                 Vector3 tp = Camera.main.ScreenToWorldPoint(touch.position);
                 // Debug.Log(tp);
+                
+                if (!As.isshoot)
+                {
+
+                    MousePos = touch.position;
+                    hui = MousePos.x;
+             
+                    if (MousePos.x > 500 && transform.rotation.z > -0.6f && !IsBuutonPressed)
+                        transform.Rotate(0, 0, -3 * speed * Time.deltaTime);
+
+                    else if (MousePos.x < 500 && transform.rotation.z < 0.6f)
+                    {
+                        transform.Rotate(0, 0, 3 * speed * Time.deltaTime);
+                    }
+                }
                 if (tp.x > 0)
                 {
                     transform.Rotate(0, 0, -3 * speed * Time.deltaTime);
@@ -69,6 +83,9 @@ public class AK47 : MonoBehaviour
                     transform.Rotate(0, 0, 3 * speed * Time.deltaTime);
                 }
             }
+
+
+
         }
     }
 

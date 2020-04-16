@@ -38,6 +38,7 @@ public class RicardoSpawnManager : MonoBehaviour
     public RawImage gject;
     public bool[] PrefabIsActive;
     public  bool spawnis;
+    public GameObject ShootButton;
     
     // Start is called before the first frame update
     IEnumerator SpawnRicardo()
@@ -137,6 +138,15 @@ public class RicardoSpawnManager : MonoBehaviour
             if (IsSelected)
             {
                 GameObject.Find("Bottles").transform.GetChild(i - 1).gameObject.SetActive(true);
+                Debug.Log(i + "SelectedBottle");
+                if (i == 9)
+                {
+                    ShootButton.SetActive(true);
+                }
+                else if (i == 10)
+                {
+                    ShootButton.SetActive(true);
+                }
             }
             else
             {

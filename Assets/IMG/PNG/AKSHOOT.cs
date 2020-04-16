@@ -23,7 +23,11 @@ public class AKSHOOT : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Space) && ammo > 0 && !isshoot)
+    }
+
+    public void shootbutton()
+    {
+        if (ammo > 0 && !isshoot)
         {
             GetComponent <AudioSource> ().Play ();
             StartCoroutine(shootstart());
