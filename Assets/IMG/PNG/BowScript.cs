@@ -13,6 +13,8 @@ public class BowScript : MonoBehaviour
     public int ammo;
     public bool TrippleShoot;
     public int speed;
+
+    public bool IsBuutonPressed;
     // Start is called before the first frame update
     void Start()
     {
@@ -30,7 +32,7 @@ public class BowScript : MonoBehaviour
             if (Input.GetKey(KeyCode.Mouse0) && !st.IsShootInBow)
             {
                 MousePos = Input.mousePosition;
-                if (MousePos.x > 500 && transform.rotation.z > -0.75f)
+                if (MousePos.x > 500 && transform.rotation.z > -0.75f && !IsBuutonPressed)
                 {
                     transform.Rotate(0, 0, -2 * speed * Time.deltaTime);
                 }
@@ -46,14 +48,14 @@ public class BowScript : MonoBehaviour
                 // Debug.Log(tp);
                 if (tp.x > 0)
                 {
-                    if (MousePos.x > 500 && transform.rotation.z > -0.75f)
+                    if (transform.rotation.z > -0.75f && !IsBuutonPressed)
                     {
                         transform.Rotate(0, 0, -2 * speed * Time.deltaTime);
                     }
                 }
                 else if (tp.x < 0)
                 {
-                    if (MousePos.x < 500 && transform.rotation.z < 0.75f)
+                    if (transform.rotation.z < 0.75f)
                     {
                         transform.Rotate(0, 0, 2 * speed * Time.deltaTime);
                     }

@@ -4,9 +4,9 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.EventSystems;
 
-public class CliclHandlerShootButton : MonoBehaviour, IPointerDownHandler, IPointerUpHandler
+public class ClickHandlerBow : MonoBehaviour, IPointerDownHandler, IPointerUpHandler
 {
-    public  AK47 akobj;
+    public  BowScript akobj1;
 
     void Start()
     {
@@ -16,12 +16,11 @@ public class CliclHandlerShootButton : MonoBehaviour, IPointerDownHandler, IPoin
             bool IsSelected = Convert.ToBoolean(PlayerPrefs.GetInt("IsSelected" + i));
             if (IsSelected)
             {
-                if (i == 10)
+                if (i == 9)
                 {
-                    
-                    if (GameObject.Find("AK-47") != null)
+                    if (GameObject.Find("BOW") != null)
                     {
-                        akobj = GameObject.Find("AK-47").GetComponent<AK47>();
+                        akobj1 = GameObject.Find("BOW").GetComponent<BowScript>();
                     }
                     else
                     {
@@ -37,12 +36,12 @@ public class CliclHandlerShootButton : MonoBehaviour, IPointerDownHandler, IPoin
     
     public void OnPointerDown(PointerEventData eventData)
     {
-        akobj.IsBuutonPressed = true;
+        akobj1.IsBuutonPressed = true;
     }
 
     public void OnPointerUp(PointerEventData eventData)
     {
-        akobj.IsBuutonPressed = false;
+        akobj1.IsBuutonPressed = false;
     }
 
     

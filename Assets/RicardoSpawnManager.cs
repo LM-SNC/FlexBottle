@@ -39,6 +39,7 @@ public class RicardoSpawnManager : MonoBehaviour
     public bool[] PrefabIsActive;
     public  bool spawnis;
     public GameObject ShootButton;
+    public GameObject ShootButton1;
     
     // Start is called before the first frame update
     IEnumerator SpawnRicardo()
@@ -141,7 +142,7 @@ public class RicardoSpawnManager : MonoBehaviour
                 Debug.Log(i + "SelectedBottle");
                 if (i == 9)
                 {
-                    ShootButton.SetActive(true);
+                    ShootButton1.SetActive(true);
                 }
                 else if (i == 10)
                 {
@@ -347,6 +348,7 @@ public class RicardoSpawnManager : MonoBehaviour
     {
         score = 0;
         proebano = 0;
+        timeOnSpawnRicardo = 3;
         secondlife = prelife;
         gameoverbool = false;
         gameover.SetActive(false);
@@ -356,13 +358,13 @@ public class RicardoSpawnManager : MonoBehaviour
         freeze = false;
         timeOnSpawnRicardo = 3;
         time = 0;
-        StopCoroutine(BonusSpawn());
-        StopCoroutine(SpawnCoin());
-        StopCoroutine(SpawnRicardo());
+
+        StopAllCoroutines();
 
         StartCoroutine(BonusSpawn());
         StartCoroutine(SpawnCoin());
         StartCoroutine(SpawnRicardo());
+        StartCoroutine(TimeRicardo());
 
 
     }

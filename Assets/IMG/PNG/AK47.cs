@@ -54,31 +54,28 @@ public class AK47 : MonoBehaviour
                 transform.Translate(Vector3.up * 0.1f * Time.deltaTime);
             }
 
+            MousePos = Input.mousePosition;
+            if (Input.GetMouseButton(0))
+            {
+                if (MousePos.x > 500 && transform.rotation.z > -0.6f && !IsBuutonPressed)
+                    transform.Rotate(0, 0, -3 * speed * Time.deltaTime);
+
+                else if (MousePos.x < 500 && transform.rotation.z < 0.6f)
+                {
+                    transform.Rotate(0, 0, 3 * speed * Time.deltaTime);
+                }
+            }
+
             if (Input.touchCount > 0)
             {
                 Touch touch = Input.GetTouch(0);
                 Vector3 tp = Camera.main.ScreenToWorldPoint(touch.position);
                 // Debug.Log(tp);
-                
-                if (!As.isshoot)
-                {
-
-                    MousePos = touch.position;
-                    hui = MousePos.x;
-             
-                    if (MousePos.x > 500 && transform.rotation.z > -0.6f && !IsBuutonPressed)
-                        transform.Rotate(0, 0, -3 * speed * Time.deltaTime);
-
-                    else if (MousePos.x < 500 && transform.rotation.z < 0.6f)
-                    {
-                        transform.Rotate(0, 0, 3 * speed * Time.deltaTime);
-                    }
-                }
-                if (tp.x > 0)
+                if (tp.x > 0 && transform.rotation.z > -0.6f && !IsBuutonPressed)
                 {
                     transform.Rotate(0, 0, -3 * speed * Time.deltaTime);
                 }
-                else if (tp.x < 0)
+                else if (tp.x < 0 && transform.rotation.z < 0.6f)
                 {
                     transform.Rotate(0, 0, 3 * speed * Time.deltaTime);
                 }

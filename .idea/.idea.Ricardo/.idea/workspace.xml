@@ -1,11 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="58b4dd39-fe2f-4d83-8370-b1e890c3d259" name="Default Changelist" comment="" />
+    <list default="true" id="58b4dd39-fe2f-4d83-8370-b1e890c3d259" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Ricardo/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Ricardo/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Ricardo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Ricardo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG/PNG/AK47.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/IMG/PNG/AK47.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG/PNG/AKSHOOT.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/IMG/PNG/AKSHOOT.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG/PNG/BowAnimation/Shoot.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/IMG/PNG/BowAnimation/Shoot.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG/PNG/BowScript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/IMG/PNG/BowScript.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG/PNG/CliclHandlerShootButton.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/IMG/PNG/CliclHandlerShootButton.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RicardoSpawnManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/RicardoSpawnManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/RicardoAnimation/AnimPngHuinua/New_anim/RedBull/SwordMoove.cs" root0="FORCE_HIGHLIGHTING" />
@@ -17,6 +32,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/RicardoScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/IMG/OffPause.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/MenuBackGround.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/IMG/PNG/ClickHandlerBow.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/IMG/PNG/DelExp.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/SoftEffects/Scripts/GPUWorker.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/ButtonOnGame.cs" root0="FORCE_HIGHLIGHTING" />
@@ -41,6 +57,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/IMG/ItemShopId.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/IMG/PNG/Arrow.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/IMG/PNG/CliclHandlerShootButton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/butt.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/IMG/ButtonBool1.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/IMG/cLOUDmOOVE.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/RicardoAnimation/ScriptRicForMainMenu.cs" root0="FORCE_HIGHLIGHTING" />
@@ -66,12 +83,10 @@
         <option value="$PROJECT_DIR$/Assets/IMG/PNG/DelExp.cs" />
         <option value="$PROJECT_DIR$/Assets/IMG/PNG/ExpSpawn.cs" />
         <option value="$PROJECT_DIR$/Assets/SettingsMenu.cs" />
-        <option value="$PROJECT_DIR$/Assets/IMG/PNG/BowAnimation/Shoot.cs" />
         <option value="$PROJECT_DIR$/Assets/IMG/ItemShopId.cs" />
         <option value="$PROJECT_DIR$/Assets/IMG/IDbuybutton.cs" />
         <option value="$PROJECT_DIR$/Assets/SCriptttt.cs" />
         <option value="$PROJECT_DIR$/Assets/IMG/Katana.cs" />
-        <option value="$APPLICATION_CONFIG_DIR$/rider64.exe.vmoptions" />
         <option value="$PROJECT_DIR$/Assets/Scenes/MenuBackGround.cs" />
         <option value="$PROJECT_DIR$/Assets/RicardoAnimation/ScriptRicForMainMenu.cs" />
         <option value="$PROJECT_DIR$/Assets/RicardoAnimation/NewSurfaceShader.shader" />
@@ -83,19 +98,27 @@
         <option value="$PROJECT_DIR$/Assets/CoinsScript.cs" />
         <option value="$PROJECT_DIR$/Assets/IMG/PNG/AmmoAk.cs" />
         <option value="$PROJECT_DIR$/Assets/MainBottleMoover.cs" />
-        <option value="$PROJECT_DIR$/Assets/IMG/PNG/BowScript.cs" />
         <option value="$PROJECT_DIR$/Assets/IMG/ShopCobtroller.cs" />
         <option value="$PROJECT_DIR$/Assets/RicardoAnimation/AnimPngHuinua/New_anim/RedBull/SwordMoove.cs" />
         <option value="$PROJECT_DIR$/Assets/IMG/ScrollMagazine.cs" />
         <option value="$PROJECT_DIR$/Assets/ExplorerScript.cs" />
-        <option value="$PROJECT_DIR$/Assets/IMG/PNG/AKSHOOT.cs" />
-        <option value="$PROJECT_DIR$/Assets/RicardoSpawnManager.cs" />
-        <option value="$PROJECT_DIR$/Assets/IMG/PNG/CliclHandlerShootButton.cs" />
         <option value="$PROJECT_DIR$/Assets/IMG/PNG/AK47.cs" />
+        <option value="$PROJECT_DIR$/Assets/IMG/PNG/AKSHOOT.cs" />
+        <option value="$PROJECT_DIR$/Assets/IMG/PNG/CliclHandlerShootButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/IMG/PNG/ClickHandlerBow.cs" />
+        <option value="$PROJECT_DIR$/Assets/IMG/PNG/BowScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/IMG/PNG/BowAnimation/Shoot.cs" />
+        <option value="$PROJECT_DIR$/Assets/RicardoSpawnManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/butt.cs" />
+        <option value="$PROJECT_DIR$/../2019.3.0f6/Editor/Data/PlaybackEngines/AndroidPlayer/Apk/LauncherManifest.xml" />
+        <option value="$PROJECT_DIR$/Assets/Plugins/Android/New Folder/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/Assets/Plugins/Android/AndroidManifest.xml" />
+        <option value="$APPLICATION_CONFIG_DIR$/rider64.exe.vmoptions" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1YLRb2HG8vYpEHMRfQEnD6jQVJ9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -105,7 +128,9 @@
     <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="Rider.SolutionExplorerActivator" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TWShift.3" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager">
     <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
@@ -246,7 +271,21 @@
       <workItem from="1586876834127" duration="2904000" />
       <workItem from="1586883703250" duration="5542000" />
       <workItem from="1586944064662" duration="3153000" />
-      <workItem from="1587028419602" duration="17372000" />
+      <workItem from="1587028419602" duration="22900000" />
+      <workItem from="1587117503660" duration="5138000" />
+      <workItem from="1587241943106" duration="4362000" />
+      <workItem from="1587639162751" duration="2848000" />
+      <workItem from="1587678823389" duration="685000" />
+      <workItem from="1587740276731" duration="9353000" />
+      <workItem from="1587969639041" duration="1761000" />
+      <workItem from="1587971450721" duration="1779000" />
+      <workItem from="1587973397232" duration="1224000" />
+      <workItem from="1587977737136" duration="1425000" />
+      <workItem from="1587979230917" duration="1770000" />
+      <workItem from="1587986706062" duration="1448000" />
+      <workItem from="1587989770935" duration="1380000" />
+      <workItem from="1587995224324" duration="44000" />
+      <workItem from="1587995428050" duration="78000" />
     </task>
     <servers />
   </component>
@@ -255,7 +294,32 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
+    <state x="617" y="215" key="#HTTP_Proxy" timestamp="1587741141707">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="617" y="215" key="#HTTP_Proxy/0.0.2048.1112@0.0.2048.1112" timestamp="1587741141707" />
+    <state x="617" y="215" key="#Inspection_severity" timestamp="1587987552589">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="617" y="215" key="#Inspection_severity/0.0.2048.1112@0.0.2048.1112" timestamp="1587987552589" />
+    <state x="757" y="359" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587678915642">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="757" y="359" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2048.1112@0.0.2048.1112" timestamp="1587678915642" />
     <state width="2005" height="376" key="GridCell.Tab.0.bottom" timestamp="1583956196447">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
@@ -320,6 +384,22 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state width="2005" height="376" key="GridCell.Tab.3.right/0.0.2048.1112@0.0.2048.1112" timestamp="1583956196448" />
+    <state x="865" y="278" key="RollbackChangesDialog" timestamp="1587818835296">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="865" y="278" key="RollbackChangesDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1587818835296" />
+    <state x="533" y="199" key="SettingsEditor" timestamp="1587678528755">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="533" y="199" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1587678528755" />
+    <state x="93" y="93" width="1862" height="926" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1587678333688">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="93" y="93" width="1862" height="926" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1587678333688" />
+    <state x="652" y="248" key="com.intellij.javaee.MapExternalResourceDialog" timestamp="1587987395521">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="652" y="248" key="com.intellij.javaee.MapExternalResourceDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1587987395521" />
     <state x="675" y="226" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1587029110169">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>

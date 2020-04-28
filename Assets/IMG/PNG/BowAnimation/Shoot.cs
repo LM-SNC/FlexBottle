@@ -19,22 +19,24 @@ public class Shoot : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Space) && BS.ammo > 0 && ! IsShootInBow)
+    }
+
+    public void bowshoot()
+    {
+        if (BS.ammo > 0 && ! IsShootInBow)
         {
             BS.shoot();
             animshoot.SetBool("IsShoot", true);
             StartCoroutine(IsShootBow());
             StartCoroutine(BowSound());
+            Debug.Log("Shooting!");
         }
-        else
-        {
-            animshoot.SetBool("IsShoot", false);
-        }
-
-        IEnumerator IsShootBow()
+    }
+    IEnumerator IsShootBow()
         {
             IsShootInBow = true;
             yield return new WaitForSeconds(0.2f);
+            animshoot.SetBool("IsShoot", false);
             IsShootInBow = false;
         }
         IEnumerator BowSound()
@@ -42,6 +44,5 @@ public class Shoot : MonoBehaviour
             yield return new WaitForSeconds(0.5f);
             GetComponent <AudioSource> ().Play ();
         }
-    }
 
-}
+    }

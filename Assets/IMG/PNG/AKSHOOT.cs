@@ -55,7 +55,7 @@ public class AKSHOOT : MonoBehaviour
     IEnumerator shootstart()
     {
         isshoot = true;
-        yield return new WaitForSeconds(0.15f);
+        yield return new WaitForSeconds(0.3f);
         isshoot = false;
     }
     

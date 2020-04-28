@@ -4,11 +4,14 @@
     <e p="C:\Users\ART\.Rider2019.3\system\extResources" t="IncludeRecursive" />
     <e p="C:\Users\ART\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Ricardo.432355989.00" t="ExcludeRecursive" />
     <e p="P:\unity\Ricardo" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="AntonScript.cs" t="Include" />
         <e p="BackOnShop.cs" t="Include" />
+        <e p="butt.cs" t="Include" />
         <e p="ButtonOnGame.cs" t="Include" />
         <e p="CoinsScript.cs" t="Include" />
         <e p="ExitOnGame.cs" t="Include" />
@@ -31,6 +34,7 @@
               <e p="Shoot.cs" t="Include" />
             </e>
             <e p="BowScript.cs" t="Include" />
+            <e p="ClickHandlerBow.cs" t="Include" />
             <e p="CliclHandlerShootButton.cs" t="Include" />
             <e p="DelExp.cs" t="Include" />
             <e p="ExpSpawn.cs" t="Include" />
@@ -42,6 +46,27 @@
         <e p="MainBottleMoover.cs" t="Include" />
         <e p="oNrESTARTbUTTON.cs" t="Include" />
         <e p="PlayAnimOnButton.cs" t="Include" />
+        <e p="Plugins" t="Include">
+          <e p="Android" t="Include">
+            <e p="AndroidManifest.xml" t="Include" />
+          </e>
+          <e p="NativeGallery" t="Include">
+            <e p="Android" t="Include">
+              <e p="NGCallbackHelper.cs" t="Include" />
+              <e p="NGMediaReceiveCallbackAndroid.cs" t="Include" />
+              <e p="NGPermissionCallbackAndroid.cs" t="Include" />
+            </e>
+            <e p="Editor" t="Include">
+              <e p="NGPostProcessBuild.cs" t="Include" />
+            </e>
+            <e p="iOS" t="Include">
+              <e p="NGMediaReceiveCallbackiOS.cs" t="Include" />
+              <e p="NGMediaSaveCallbackiOS.cs" t="Include" />
+            </e>
+            <e p="NativeGallery.cs" t="Include" />
+            <e p="README.txt" t="Include" />
+          </e>
+        </e>
         <e p="RicardoAnimation" t="Include">
           <e p="AnimPngHuinua" t="Include">
             <e p="New_anim" t="Include">
