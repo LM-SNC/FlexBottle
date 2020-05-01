@@ -2,17 +2,141 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58b4dd39-fe2f-4d83-8370-b1e890c3d259" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/PanelSelectIMGs.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PanelSelectIMGs.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Ricardo/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Ricardo/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Ricardo/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Ricardo/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Ricardo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Ricardo/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/IMG/PNG/AK47.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/IMG/PNG/AK47.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/IMG/PNG/AKSHOOT.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/IMG/PNG/AKSHOOT.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/IMG/PNG/BowAnimation/Shoot.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/IMG/PNG/BowAnimation/Shoot.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/IMG/PNG/BowScript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/IMG/PNG/BowScript.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/IMG/PNG/CliclHandlerShootButton.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/IMG/PNG/CliclHandlerShootButton.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/011 Dusty Grass.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/011 Dusty Grass.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/054 Grown Early.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/054 Grown Early.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/076 Premium Dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/076 Premium Dark.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/100 Vicious Stance.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/100 Vicious Stance.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Flat Textures Demo/Demo.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Flat Textures Demo/Demo/Demo.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Flat Textures Demo/Demo/Demo.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG/182399_beer-bottle-transparent-png.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG/182399_beer-bottle-transparent-png.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG/5839c7134a04e158a1b1a367.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG/5839c7134a04e158a1b1a367.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG/5839c7134a04e158a1b1a367.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG/5839c7134a04e158a1b1a367.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG/6-2-bottle-png-6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG/6-2-bottle-png-6.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG/AntonAnim/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG/AntonAnim/1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG/AntonAnim/AntonGay.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG/AntonAnim/AntonGay.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG/AntonAnim/Defualt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG/AntonAnim/Defualt.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG/AntonAnim/Defualt.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG/AntonAnim/Defualt.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG/Liquor-Bottle-PNG-Transparent-Image-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG/Liquor-Bottle-PNG-Transparent-Image-1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG/O1CN01BHXSrk1w5IL90rLlI_!!2200575796256.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG/O1CN01BHXSrk1w5IL90rLlI_!!2200575796256.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG/PNG/BowAnimation/Старый_звук_выстрела.ogg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/IMG/PNG/BowAnimation/Старый_звук_выстрела.ogg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG/PNG/ak47-1.wav.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/IMG/PNG/ak47-1.wav.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG/PNG/muzlome_Halogen_-_U_got_that_b128f0d188.mp3.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/IMG/PNG/muzlome_Halogen_-_U_got_that_b128f0d188.mp3.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG/PNG/platformer_background_1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG/PNG/platformer_background_1/Layers.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG/PNG/platformer_background_1/Layers/layer01_ground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG/PNG/platformer_background_1/Layers/layer01_ground.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG/PNG/platformer_background_1/Layers/layer02_cake.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG/PNG/platformer_background_1/Layers/layer02_cake.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG/PNG/platformer_background_1/Layers/layer03_trees.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG/PNG/platformer_background_1/Layers/layer03_trees.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG/PNG/platformer_background_1/Layers/layer04_clouds.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG/PNG/platformer_background_1/Layers/layer04_clouds.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG/PNG/platformer_background_1/Layers/layer05_rocks.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG/PNG/platformer_background_1/Layers/layer05_rocks.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG/PNG/platformer_background_1/Layers/layer06_sky.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG/PNG/platformer_background_1/Layers/layer06_sky.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG/PNG/platformer_background_1/platformer_background_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG/PNG/platformer_background_1/platformer_background_1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG/PNG/platformer_background_2/Layers/layer01_Clouds_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG/PNG/platformer_background_2/Layers/layer01_Clouds_1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG/PNG/platformer_background_2/Layers/layer02_Clouds_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG/PNG/platformer_background_2/Layers/layer02_Clouds_2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG/PNG/platformer_background_2/Layers/layer03_Clouds_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG/PNG/platformer_background_2/Layers/layer03_Clouds_3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG/PNG/platformer_background_2/Layers/layer04_Path.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG/PNG/platformer_background_2/Layers/layer04_Path.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG/PNG/platformer_background_2/Layers/layer05_Castle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG/PNG/platformer_background_2/Layers/layer05_Castle.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG/PNG/platformer_background_2/Layers/layer06_Stars_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG/PNG/platformer_background_2/Layers/layer06_Stars_3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG/PNG/platformer_background_2/Layers/layer07_Stars_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG/PNG/platformer_background_2/Layers/layer07_Stars_2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG/PNG/platformer_background_2/Layers/layer08_Stars_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG/PNG/platformer_background_2/Layers/layer08_Stars_1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG/PNG/platformer_background_2/Layers/layer09_Sky.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG/PNG/platformer_background_2/Layers/layer09_Sky.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG/PNG/platformer_background_2/platformer_background_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG/PNG/platformer_background_2/platformer_background_2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG/PNG/platformer_background_3.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG/PNG/platformer_background_3/Layers.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG/PNG/platformer_background_3/Layers/layer01_Ground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG/PNG/platformer_background_3/Layers/layer01_Ground.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG/PNG/platformer_background_3/Layers/layer02_Trees.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG/PNG/platformer_background_3/Layers/layer02_Trees.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG/PNG/platformer_background_3/Layers/layer03_Hills_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG/PNG/platformer_background_3/Layers/layer03_Hills_1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG/PNG/platformer_background_3/Layers/layer04_Hills_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG/PNG/platformer_background_3/Layers/layer04_Hills_2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG/PNG/platformer_background_3/Layers/layer05_Clouds.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG/PNG/platformer_background_3/Layers/layer05_Clouds.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG/PNG/platformer_background_3/Layers/layer06_Rocks.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG/PNG/platformer_background_3/Layers/layer06_Rocks.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG/PNG/platformer_background_3/Layers/layer07_Sky.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG/PNG/platformer_background_3/Layers/layer07_Sky.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG/PNG/platformer_background_3/platformer_background_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG/PNG/platformer_background_3/platformer_background_3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG/ShopCobtroller.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/IMG/ShopCobtroller.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG/img66272436.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IMG/img66272436.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Android.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Android/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Android/AndroidManifest.xml.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Android/New Folder.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/NativeGallery.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/NativeGallery/Android.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/NativeGallery/Android/NGCallbackHelper.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/NativeGallery/Android/NGCallbackHelper.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/NativeGallery/Android/NGMediaReceiveCallbackAndroid.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/NativeGallery/Android/NGMediaReceiveCallbackAndroid.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/NativeGallery/Android/NGPermissionCallbackAndroid.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/NativeGallery/Android/NGPermissionCallbackAndroid.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/NativeGallery/Android/NativeGallery.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/NativeGallery/Android/NativeGallery.jar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/NativeGallery/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/NativeGallery/Editor/NGPostProcessBuild.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/NativeGallery/Editor/NGPostProcessBuild.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/NativeGallery/NativeGallery.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/NativeGallery/NativeGallery.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/NativeGallery/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/NativeGallery/README.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/NativeGallery/iOS.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/NativeGallery/iOS/NGMediaReceiveCallbackiOS.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/NativeGallery/iOS/NGMediaReceiveCallbackiOS.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/NativeGallery/iOS/NGMediaSaveCallbackiOS.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/NativeGallery/iOS/NGMediaSaveCallbackiOS.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/NativeGallery/iOS/NativeGallery.mm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/NativeGallery/iOS/NativeGallery.mm.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RicardoAnimation/AnimPngHuinua/New_anim/RedBull/EnergyBottle.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/RicardoAnimation/AnimPngHuinua/New_anim/RedBull/EnergyBottle.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/RicardoSpawnManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/RicardoSpawnManager.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/StartMenu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/StartMenu.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/butt.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/butt.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/summer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/summer.png.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +165,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/ExitOnGame.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/SoftEffects/Scripts/SoftEffectsFont.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/CoinsScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/ExitButton.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/IMG/PNG/AmmoAk.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/SettingsMenu.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/AntonScript.cs" root0="FORCE_HIGHLIGHTING" />
@@ -57,7 +182,6 @@
     <setting file="file://$PROJECT_DIR$/Assets/IMG/ItemShopId.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/IMG/PNG/Arrow.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/IMG/PNG/CliclHandlerShootButton.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/butt.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/IMG/ButtonBool1.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/IMG/cLOUDmOOVE.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/RicardoAnimation/ScriptRicForMainMenu.cs" root0="FORCE_HIGHLIGHTING" />
@@ -66,6 +190,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/RicardoAnimation/NewSurfaceShader.shader" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/RicardoAnimation/AnimPngHuinua/New_anim/RedBull/EnergyBottle.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/IMG/ShopButton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/PanelSelectIMGs.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -92,13 +217,11 @@
         <option value="$PROJECT_DIR$/Assets/RicardoAnimation/NewSurfaceShader.shader" />
         <option value="$PROJECT_DIR$/Assets/RicardoAnimation/LayerController.cs" />
         <option value="$PROJECT_DIR$/Assets/RicardoScript.cs" />
-        <option value="$PROJECT_DIR$/Assets/RicardoAnimation/AnimPngHuinua/New_anim/RedBull/EnergyBottle.cs" />
         <option value="$PROJECT_DIR$/Assets/IMG/cLOUDmOOVE.cs" />
         <option value="$PROJECT_DIR$/Assets/IMG/PNG/Arrow.cs" />
         <option value="$PROJECT_DIR$/Assets/CoinsScript.cs" />
         <option value="$PROJECT_DIR$/Assets/IMG/PNG/AmmoAk.cs" />
         <option value="$PROJECT_DIR$/Assets/MainBottleMoover.cs" />
-        <option value="$PROJECT_DIR$/Assets/IMG/ShopCobtroller.cs" />
         <option value="$PROJECT_DIR$/Assets/RicardoAnimation/AnimPngHuinua/New_anim/RedBull/SwordMoove.cs" />
         <option value="$PROJECT_DIR$/Assets/IMG/ScrollMagazine.cs" />
         <option value="$PROJECT_DIR$/Assets/ExplorerScript.cs" />
@@ -108,12 +231,15 @@
         <option value="$PROJECT_DIR$/Assets/IMG/PNG/ClickHandlerBow.cs" />
         <option value="$PROJECT_DIR$/Assets/IMG/PNG/BowScript.cs" />
         <option value="$PROJECT_DIR$/Assets/IMG/PNG/BowAnimation/Shoot.cs" />
-        <option value="$PROJECT_DIR$/Assets/RicardoSpawnManager.cs" />
         <option value="$PROJECT_DIR$/Assets/butt.cs" />
         <option value="$PROJECT_DIR$/../2019.3.0f6/Editor/Data/PlaybackEngines/AndroidPlayer/Apk/LauncherManifest.xml" />
+        <option value="$APPLICATION_CONFIG_DIR$/rider64.exe.vmoptions" />
         <option value="$PROJECT_DIR$/Assets/Plugins/Android/New Folder/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/Assets/Plugins/Android/AndroidManifest.xml" />
-        <option value="$APPLICATION_CONFIG_DIR$/rider64.exe.vmoptions" />
+        <option value="$PROJECT_DIR$/Assets/RicardoAnimation/AnimPngHuinua/New_anim/RedBull/EnergyBottle.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/ExitButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/IMG/ShopCobtroller.cs" />
+        <option value="$PROJECT_DIR$/Assets/RicardoSpawnManager.cs" />
       </list>
     </option>
   </component>
@@ -132,17 +258,17 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
       <option name="pid" />
       <method v="2" />
     </configuration>
-    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" pid="13128">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
-      <option name="pid" value="13128" />
+      <option name="pid" />
       <method v="2" />
     </configuration>
   </component>
@@ -286,6 +412,10 @@
       <workItem from="1587989770935" duration="1380000" />
       <workItem from="1587995224324" duration="44000" />
       <workItem from="1587995428050" duration="78000" />
+      <workItem from="1588085398202" duration="84000" />
+      <workItem from="1588085552323" duration="2262000" />
+      <workItem from="1588272081362" duration="5054000" />
+      <workItem from="1588332494466" duration="6839000" />
     </task>
     <servers />
   </component>
@@ -316,6 +446,10 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="617" y="215" key="#Inspection_severity/0.0.2048.1112@0.0.2048.1112" timestamp="1587987552589" />
+    <state x="617" y="215" key="#Plugins" timestamp="1588085491114">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="617" y="215" key="#Plugins/0.0.2048.1112@0.0.2048.1112" timestamp="1588085491114" />
     <state x="757" y="359" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587678915642">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
@@ -400,9 +534,9 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="652" y="248" key="com.intellij.javaee.MapExternalResourceDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1587987395521" />
-    <state x="675" y="226" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1587029110169">
+    <state x="675" y="226" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1588273803653">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="675" y="226" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.2048.1112@0.0.2048.1112" timestamp="1587029110169" />
+    <state x="675" y="226" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.2048.1112@0.0.2048.1112" timestamp="1588273803653" />
   </component>
 </project>

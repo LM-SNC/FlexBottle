@@ -40,6 +40,7 @@ public class RicardoSpawnManager : MonoBehaviour
     public  bool spawnis;
     public GameObject ShootButton;
     public GameObject ShootButton1;
+    public bool noolbottle;
     
     // Start is called before the first frame update
     IEnumerator SpawnRicardo()
@@ -52,7 +53,7 @@ public class RicardoSpawnManager : MonoBehaviour
                 {
                     if (!freeze)
                     {
-                        Instantiate(RicardoPrefab[numberprefub], new Vector3(Random.Range(-8, 8), 6.37f, 0), Quaternion.identity);
+                      Instantiate(RicardoPrefab[numberprefub], new Vector3(Random.Range(-8, 8), 6.37f, 0), Quaternion.identity);
                     }
                 }
             }
@@ -99,14 +100,13 @@ public class RicardoSpawnManager : MonoBehaviour
                     }
                 }
             }
-
         }
     }
     IEnumerator SpawnCoin()
     {
         while (true)
         {
-            yield return new WaitForSeconds(10);
+            yield return new WaitForSeconds(7);
             if (!gameoverbool)
             {
                 if (!GamePause)
@@ -140,19 +140,27 @@ public class RicardoSpawnManager : MonoBehaviour
             {
                 GameObject.Find("Bottles").transform.GetChild(i - 1).gameObject.SetActive(true);
                 Debug.Log(i + "SelectedBottle");
+                noolbottle = true;
                 if (i == 9)
                 {
                     ShootButton1.SetActive(true);
+                    noolbottle = true;
                 }
                 else if (i == 10)
                 {
                     ShootButton.SetActive(true);
+                    noolbottle = true;
                 }
             }
             else
             {
                 GameObject.Find("Bottles").transform.GetChild(i - 1).gameObject.SetActive(false);
             }
+        }
+
+        if (!noolbottle)
+        {
+            GameObject.Find("Bottles").transform.GetChild(1 - 1).gameObject.SetActive(true);
         }
 
         for (int ID = 11; ID < 22; ID++)
@@ -184,49 +192,58 @@ public class RicardoSpawnManager : MonoBehaviour
                 {
                     secondlife = true;
                 } 
+                
                 if (ID == 16)
                 {
                     //ricardo
                     numberprefub = 0;
                 }
-                if (ID == 17)
+                else if (ID == 17)
                 {
                     //navalni
                     numberprefub = 1;
                 }
-                if (ID == 18)
+                else if (ID == 18)
                 {
                     //putin
                     numberprefub = 2;
                 }
-                if (ID == 19)
+                else if (ID == 19)
                 {
                     //zelenskiy
                     numberprefub = 3;
                 }
-                if (ID == 20)
+                else if (ID == 20)
                 {
                     //diamond ricardo
                     numberprefub = 4;
                 }
-                if (ID == 21)
+                else if (ID == 21)
                 {
                   // ultra ricardo
                   numberprefub = 5;
                 }
+                else
+                {
+                    //ricardo
+                    numberprefub = 0;
+                }
 
-                if (ID == 22)
+                //TODO на данный момент работает только в редакторе(Свой файл)
+                /*
+                 if (ID == 22)
                 {
                     YourSelfIMG = true;
                 }
-                
-               // numberprefub = 0;
+                 numberprefub = 0;
                 path = PlayerPrefs.GetString("path");
                 if (path != null)
                 {
                     WWW www = new WWW("file:///" + PlayerPrefs.GetString("path"));
                     image.texture = www.texture;
                 }
+                */
+                //TODO на данный момент работает только в редакторе(Свой файл)
 
             }
         }

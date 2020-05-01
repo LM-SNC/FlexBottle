@@ -19,7 +19,8 @@ public class ShopCobtroller : MonoBehaviour
     void Start()
     {
         //PlayerPrefs.DeleteAll();
-        coinint = 500;
+        //coinint = 15;
+        coinint = PlayerPrefs.GetInt("CoinS", 0);
         coins.text = PlayerPrefs.GetInt("CoinS", 0).ToString();
         _UpdateValue();
         path = PlayerPrefs.GetString("path");
@@ -46,9 +47,6 @@ public class ShopCobtroller : MonoBehaviour
         if (coinint >= PRICE && !BuyStatus)
         {
             PlayerPrefs.SetInt(ID.ToString(),1);
-            Debug.Log("Предмет под ID " + ID + "Был успешно куплен!");
-            coinint -= PRICE;
-            coins.text = PlayerPrefs.GetInt("CoinS", 0).ToString();
             coinint -= PRICE;
             PlayerPrefs.SetInt("CoinS",coinint);
             coins.text = PlayerPrefs.GetInt("CoinS", 0).ToString();
@@ -89,15 +87,12 @@ public class ShopCobtroller : MonoBehaviour
         }
         else if((BuyStatus && IsSelected && GROUP == 1 ))
         {
-            
-                    
-                    if (GROUP == 1 && ID >= 11)
-                    {
+            if (GROUP == 1 && ID >= 11)
+            {
 
                         PlayerPrefs.SetInt("IsSelected" + ID, 0);
-                    }
-
-                    _UpdateValue();
+            }
+            _UpdateValue();
         }
     }
 
@@ -118,7 +113,7 @@ public class ShopCobtroller : MonoBehaviour
                   bool BuyStatus = Convert.ToBoolean(PlayerPrefs.GetInt(resultpre.ToString()));
                   bool IsSelected = Convert.ToBoolean(PlayerPrefs.GetInt("IsSelected" + resultpre));
                 //  Debug.Log(resultpre + " InWhile");
-                   BuyStatus = Convert.ToBoolean(PlayerPrefs.GetInt(resultpre.ToString()));
+                  BuyStatus = Convert.ToBoolean(PlayerPrefs.GetInt(resultpre.ToString()));
                   IsSelected = Convert.ToBoolean(PlayerPrefs.GetInt("IsSelected" + resultpre));
 
                   if (BuyStatus && !IsSelected)

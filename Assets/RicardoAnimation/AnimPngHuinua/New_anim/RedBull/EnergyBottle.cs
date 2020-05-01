@@ -10,9 +10,15 @@ public class EnergyBottle : MonoBehaviour
     void Start()
     {
         _uiManager = GameObject.Find("SpawnManager").GetComponent<RicardoSpawnManager>();
+        StartCoroutine(DelBonus());
     }
 
     // Update is called once per frame
+    IEnumerator DelBonus()
+    {
+        yield return new WaitForSeconds(13);
+        Destroy(gameObject);
+    }
     void Update()
     {
         if (!_uiManager.GamePause)
