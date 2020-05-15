@@ -312,7 +312,7 @@ public class RicardoSpawnManager : MonoBehaviour
             {
                 BestScore++;
                 PlayerPrefs.SetInt("BS", score);
-                TextBestScore.text = "BEST SCORE: " + BestScore.ToString();
+                TextBestScore.text = "Best Score: " + BestScore.ToString();
             }
         }
     }
@@ -339,12 +339,12 @@ public class RicardoSpawnManager : MonoBehaviour
         if (!gameoverbool)
         {
             proebano++;
-            TextProebano.text = "Proebano: " + proebano + "/5";
+            TextProebano.text = "Failed: " + proebano + "/5";
             if (proebano > 4)
             {
                 if (!secondlife)
                 {
-                    TextProebano.text = "Proebano: " + proebano + "/5";
+                    TextProebano.text = "Failed: " + proebano + "/5";
                     gameoverbool = true;
                     gameover.SetActive(true);
                     exitbutton.SetActive(true);
@@ -369,7 +369,7 @@ public class RicardoSpawnManager : MonoBehaviour
         secondlife = prelife;
         gameoverbool = false;
         gameover.SetActive(false);
-        TextProebano.text = "Proebano: " + proebano + "/5";
+        TextProebano.text = "Failed: " + proebano + "/5";
         TextScore.text = "Score: " + score;
         exitbutton.SetActive(false);
         freeze = false;

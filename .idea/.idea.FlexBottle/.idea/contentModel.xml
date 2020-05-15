@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\ART\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\ART\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_FlexBottle.-1393183779.00" t="ExcludeRecursive" />
+    <e p="P:\unity\FlexBottle" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="AntonScript.cs" t="Include" />
+        <e p="BackOnShop.cs" t="Include" />
+        <e p="ButtonOnGame.cs" t="Include" />
+        <e p="CoinsScript.cs" t="Include" />
+        <e p="ExitOnGame.cs" t="Include" />
+        <e p="ExplorerScript.cs" t="Include" />
+        <e p="IMG" t="Include">
+          <e p="ButtonBool1.cs" t="Include" />
+          <e p="CloudManager.cs" t="Include" />
+          <e p="cLOUDmOOVE.cs" t="Include" />
+          <e p="IDbuybutton.cs" t="Include" />
+          <e p="ItemShopId.cs" t="Include" />
+          <e p="Katana.cs" t="Include" />
+          <e p="OffPause.cs" t="Include" />
+          <e p="OptionsOpen.cs" t="Include" />
+          <e p="PNG" t="Include">
+            <e p="AK47.cs" t="Include" />
+            <e p="AKSHOOT.cs" t="Include" />
+            <e p="AmmoAk.cs" t="Include" />
+            <e p="Arrow.cs" t="Include" />
+            <e p="BowAnimation" t="Include">
+              <e p="Shoot.cs" t="Include" />
+            </e>
+            <e p="BowScript.cs" t="Include" />
+            <e p="ClickHandlerBow.cs" t="Include" />
+            <e p="CliclHandlerShootButton.cs" t="Include" />
+            <e p="DelExp.cs" t="Include" />
+            <e p="ExpSpawn.cs" t="Include" />
+          </e>
+          <e p="ScrollMagazine.cs" t="Include" />
+          <e p="ShopButton.cs" t="Include" />
+          <e p="ShopCobtroller.cs" t="Include" />
+        </e>
+        <e p="MainBottleMoover.cs" t="Include" />
+        <e p="oNrESTARTbUTTON.cs" t="Include" />
+        <e p="PanelSelectIMGs.cs" t="Include" />
+        <e p="PlayAnimOnButton.cs" t="Include" />
+        <e p="RicardoAnimation" t="Include">
+          <e p="AnimPngHuinua" t="Include">
+            <e p="New_anim" t="Include">
+              <e p="RedBull" t="Include">
+                <e p="EnergyBottle.cs" t="Include" />
+                <e p="SwordMoove.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="LayerController.cs" t="Include" />
+          <e p="NewSurfaceShader.shader" t="Include" />
+          <e p="ScriptRicForMainMenu.cs" t="Include" />
+        </e>
+        <e p="RicardoScript.cs" t="Include" />
+        <e p="RicardoSpawnManager.cs" t="Include" />
+        <e p="Scenes" t="Include">
+          <e p="ExitButton.cs" t="Include" />
+          <e p="MenuBackGround.cs" t="Include" />
+        </e>
+        <e p="SCriptttt.cs" t="Include" />
+        <e p="SettingsMenu.cs" t="Include" />
+        <e p="SoftEffects" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="CGHolder.cs" t="Include" />
+            <e p="ClassExtensions.cs" t="Include" />
+            <e p="Editor" t="Include">
+              <e p="SoftEffectsEditor.cs" t="Include" />
+              <e p="SoftEffectsFontEditor.cs" t="Include" />
+            </e>
+            <e p="GPUWorker.cs" t="Include" />
+            <e p="PrintData.cs" t="Include" />
+            <e p="SoftEffects.cs" t="Include" />
+            <e p="SoftEffectsFont.cs" t="Include" />
+            <e p="Styles.cs" t="Include" />
+          </e>
+          <e p="Shaders" t="Include">
+            <e p="SoftEditShader.shader" t="Include" />
+            <e p="SoftEffectsCompute.compute" t="Include" />
+            <e p="SoftShaderFont.shader" t="Include" />
+            <e p="SoftShaderFontWithShadows.shader" t="Include" />
+            <e p="SoftShaderSpriteWithShadows.shader" t="Include" />
+          </e>
+        </e>
+        <e p="TextMesh Pro" t="Include">
+          <e p="Examples &amp; Extras" t="Include">
+            <e p="Fonts" t="Include">
+              <e p="Anton OFL.txt" t="Include" />
+              <e p="Bangers - OFL.txt" t="Include" />
+              <e p="LiberationSans - OFL.txt" t="Include" />
+              <e p="NotoSans - License.txt" t="Include" />
+              <e p="Oswald Bold - OFL.txt" t="Include" />
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="Benchmark01.cs" t="Include" />
+              <e p="Benchmark01_UGUI.cs" t="Include" />
+              <e p="Benchmark02.cs" t="Include" />
+              <e p="Benchmark03.cs" t="Include" />
+              <e p="Benchmark04.cs" t="Include" />
+              <e p="CameraController.cs" t="Include" />
+              <e p="ChatController.cs" t="Include" />
+              <e p="EnvMapAnimator.cs" t="Include" />
+              <e p="ObjectSpin.cs" t="Include" />
+              <e p="ShaderPropAnimator.cs" t="Include" />
+              <e p="SimpleScript.cs" t="Include" />
+              <e p="SkewTextExample.cs" t="Include" />
+              <e p="TeleType.cs" t="Include" />
+              <e p="TextConsoleSimulator.cs" t="Include" />
+              <e p="TextMeshProFloatingText.cs" t="Include" />
+              <e p="TextMeshSpawner.cs" t="Include" />
+              <e p="TMP_DigitValidator.cs" t="Include" />
+              <e p="TMP_ExampleScript_01.cs" t="Include" />
+              <e p="TMP_FrameRateCounter.cs" t="Include" />
+              <e p="TMP_PhoneNumberValidator.cs" t="Include" />
+              <e p="TMP_TextEventCheck.cs" t="Include" />
+              <e p="TMP_TextEventHandler.cs" t="Include" />
+              <e p="TMP_TextInfoDebugTool.cs" t="Include" />
+              <e p="TMP_TextSelector_A.cs" t="Include" />
+              <e p="TMP_TextSelector_B.cs" t="Include" />
+              <e p="TMP_UiFrameRateCounter.cs" t="Include" />
+              <e p="TMPro_InstructionOverlay.cs" t="Include" />
+              <e p="VertexColorCycler.cs" t="Include" />
+              <e p="VertexJitter.cs" t="Include" />
+              <e p="VertexShakeA.cs" t="Include" />
+              <e p="VertexShakeB.cs" t="Include" />
+              <e p="VertexZoom.cs" t="Include" />
+              <e p="WarpTextExample.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Resources" t="Include">
+            <e p="LineBreaking Following Characters.txt" t="Include" />
+            <e p="LineBreaking Leading Characters.txt" t="Include" />
+            <e p="Shaders" t="Include">
+              <e p="TMP_Bitmap-Mobile.shader" t="Include" />
+              <e p="TMP_Bitmap.shader" t="Include" />
+              <e p="TMP_SDF Overlay.shader" t="Include" />
+              <e p="TMP_SDF-Mobile Masking.shader" t="Include" />
+              <e p="TMP_SDF-Mobile Overlay.shader" t="Include" />
+              <e p="TMP_SDF-Mobile.shader" t="Include" />
+              <e p="TMP_SDF-Surface-Mobile.shader" t="Include" />
+              <e p="TMP_SDF-Surface.shader" t="Include" />
+              <e p="TMP_SDF.shader" t="Include" />
+              <e p="TMP_Sprite.shader" t="Include" />
+              <e p="TMPro.cginc" t="Include" />
+              <e p="TMPro_Properties.cginc" t="Include" />
+              <e p="TMPro_Surface.cginc" t="Include" />
+            </e>
+          </e>
+          <e p="Sprites" t="Include">
+            <e p="EmojiOne Attribution.txt" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="FlexBottle.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

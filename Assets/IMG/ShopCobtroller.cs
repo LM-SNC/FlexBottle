@@ -24,11 +24,12 @@ public class ShopCobtroller : MonoBehaviour
         coins.text = PlayerPrefs.GetInt("CoinS", 0).ToString();
         _UpdateValue();
         path = PlayerPrefs.GetString("path");
-        if (path != null)
-        {
-            WWW www = new WWW("file:///" + PlayerPrefs.GetString("path"));
-            image.texture = www.texture;
-        }
+        //if (path != null)
+        //{
+        //    WWW www = new WWW("file:///" + PlayerPrefs.GetString("path"));
+        //    image.texture = www.texture;
+        //}
+        //coinint = 500;
     }
 
     // Update is called once per frame
